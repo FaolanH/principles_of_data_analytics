@@ -17,4 +17,5 @@ By Faolán Hamilton
 - Python
 - Git
 - GitHub
+- Codespaces
 - Jupyter
