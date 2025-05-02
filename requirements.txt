@@ -2,3 +2,4 @@
 
 ## Here's what you need to install and how:
 
+## Here's the version of each module I am using:
