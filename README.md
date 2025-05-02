@@ -40,7 +40,7 @@ By Faolán Hamilton
 
 #
 
-### Task 3: Summarise the Data - the shape of the dataset, first and last five rows, feature names and target classes were investigated in this task
+### Task 3: Summarise the Data - show the mean, median, standard deviation, minimum and maximum of each feature in the dataset
 
 #### Relevant Resources to view for Task 3:
 ##### Packages: sklearn, pandas, numpy
@@ -48,15 +48,15 @@ By Faolán Hamilton
 
 # 
 
-### Task 4: Explore the Data Structure - the shape of the dataset, first and last five rows, feature names and target classes were investigated in this task
+### Task 4: Visualise features - using matplotlib, plot histograms adding appropriate labels and headings to the plot.
 
 #### Relevant Resources to view for Task 4:
-##### Packages: sklearn, pandas, numpy
+##### Packages: matplotlib, pandas, numpy
 ##### Documentation: sklearn, iris dataset - it is useful to look at these resources to....
 
 # 
 
-### Task 5: Explore the Data Structure - the shape of the dataset, first and last five rows, feature names and target classes were investigated in this task
+### Task 5: Investigate Relationships - Create a scatterplot for any two features in the dataset, colour code three different classes
 
 #### Relevant Resources to view for Task 5:
 ##### Packages: sklearn, pandas, numpy
@@ -64,7 +64,7 @@ By Faolán Hamilton
 
 # 
 
-### Task 6: Explore the Data Structure - the shape of the dataset, first and last five rows, feature names and target classes were investigated in this task
+### Task 6: Analyse Relationships - add a regressions line to the scatterplot from task 5
 
 #### Relevant Resources to view for Task 6:
 ##### Packages: sklearn, pandas, numpy
@@ -72,7 +72,7 @@ By Faolán Hamilton
 
 # 
 
-### Task 7: Explore the Data Structure - the shape of the dataset, first and last five rows, feature names and target classes were investigated in this task
+### Task 7: Analyse class distributions - create boxplots for each of the three classes
 
 #### Relevant Resources to view for Task 7:
 ##### Packages: sklearn, pandas, numpy
@@ -80,7 +80,7 @@ By Faolán Hamilton
 
 # 
 
-### Task 8: Explore the Data Structure - the shape of the dataset, first and last five rows, feature names and target classes were investigated in this task
+### Task 8: Compute correlations - calculate coefficient correlations between features through a heatmap
 
 #### Relevant Resources to view for Task 8:
 ##### Packages: sklearn, pandas, numpy
@@ -88,7 +88,7 @@ By Faolán Hamilton
 
 # 
 
-### Task 9: Explore the Data Structure - the shape of the dataset, first and last five rows, feature names and target classes were investigated in this task
+### Task 9: Fit a simple linear regression - re-create the plots from task 5 and 6 and calculate the coefficient of R2
 
 #### Relevant Resources to view for Task 9:
 ##### Packages: sklearn, pandas, numpy
@@ -96,7 +96,7 @@ By Faolán Hamilton
 
 # 
 
-### Task 10: Explore the Data Structure - the shape of the dataset, first and last five rows, feature names and target classes were investigated in this task
+### Task 10: Too many features - Create a pairplor using seaborn
 
 #### Relevant Resources to view for Task 10:
 ##### Packages: sklearn, pandas, numpy
