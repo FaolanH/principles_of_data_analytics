@@ -1,9 +1,11 @@
 # Getting started in using this repository 
 
-Welcome to the repository! In this repository, you will find a gitignore file (please ignore this), a README.md file (which should be open and ready to view as you scroll down the main page, this requirements.txt file with some basic starter information and the main tasks.ipynb.
+Welcome to the repository! In this repository, you will find a gitignore file (please ignore this), a README.md file (which should be open and ready to view as you scroll 
+down the main page, this requirements.txt file with some basic starter information and the main tasks.ipynb.
 
 ## Here's what you need to install and how:
-It is recommended that you run this code on Codespaces in Github. As such, many of the packages and libraries mentioned should be available when called. Please follow GitHubs tutorial on setting up an account if you don't have one (https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github)
+It is recommended that you run this code on Codespaces in Github. As such, many of the packages and libraries mentioned should be available when called. 
+Please follow GitHubs tutorial on setting up an account if you don't have one (https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github)
 
 ## Here's the version of each module I am using:
 Python 3.12.1 to run the code
