@@ -1,10 +1,12 @@
 # principles_of_data_analytics
 
-By Faolán Hamilton
+Contributed by Faolán Hamilton
 
 ## My submission for the Principles of Data Analytics module 2025
 
-## Setup
+## This project is an analysis on the Iris dataset, investigating different ways the data can be shown and analysed. It also implements different packages and libraries from various sources, showing that even with a relatively simple dataset of 150 rows and 4 columns, it can be displayed in many ways.
+
+## To view this repository in codesspaces, follow the steps below:
 
 1. Sign up for a free GitHub account.
 2. Go to the repository page in your browser.
@@ -12,13 +14,35 @@ By Faolán Hamilton
 4. Click the 'Codespaces' tab
 5. Click 'Create New Codespace' on main
 
-## Technologies
+## Technologies used
 
 - Python
 - Git
 - GitHub
 - Codespaces
 - Jupyter
+
+## Documentation
+
+### Pandas: https://pandas.pydata.org/docs/
+#### - pandas, used throughout to create DataFrames, performing analysis
+#### - Used in Task 2, 3, 4, 5, 6, 7, 8, 9, 10
+
+### Scikit-learn: https://scikit-learn.org/stable/index.html
+#### Machine learning library used to import one format of the dataset, perfomed calculations for certain tasks
+#### Used in Task 1, 2, 6, 9
+
+### Numpy: https://numpy.org/doc/
+#### - numerical python (numpy) to help with calculations on arrays
+#### - Used in Task 3, 6, 8, 9
+
+### Matplotlib: https://matplotlib.org/stable/index.html
+#### - matplotlib visualises data through charts
+#### - Used in Task 4, 5, 6, 7, 8, 9
+
+### Seaborn: https://seaborn.pydata.org/
+#### - seaborn visualises complicated data through charts
+#### - Used in Task 10
 
 ## Tasks
 
@@ -27,16 +51,18 @@ By Faolán Hamilton
 ### Task 1: Source the Dataset - using the sklearn.datasets module, the iris  dataset was imported and loaded in
 
 #### Relevant Resources to view for Task 1:
-##### Packages: sklearn, pandas
-##### Documentation: sklearn, iris dataset - it is useful to look at these resources to....
+#### iris dataset origins: https://www.geeksforgeeks.org/iris-dataset/
+#### Packages: sklearn
+#### Documentation: sklearn (as listed in the documentation section above)
 
 # 
 
 ### Task 2: Explore the Data Structure - the shape of the dataset, first and last five rows, feature names and target classes were investigated in this task
 
 #### Relevant Resources to view for Task 2:
-##### Packages: sklearn, pandas, numpy
-##### Documentation: sklearn, iris dataset - it is useful to look at these resources to....
+#### Pandas head and tail: https://pandas.pydata.org/docs/user_guide/basics.html#head-and-tail
+##### Packages: sklearn, pandas
+##### Documentation: sklearn, pandas (as listed in the documentation section above)
 
 #
 
